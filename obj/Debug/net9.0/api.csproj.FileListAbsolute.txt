@@ -159,3 +159,4 @@ C:\Users\ryanh\Documents\Projects\finshark\api\bin\Debug\net9.0\Microsoft.AspNet
 C:\Users\ryanh\Documents\Projects\finshark\api\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\ryanh\Documents\Projects\finshark\api\bin\Debug\net9.0\Newtonsoft.Json.dll
 C:\Users\ryanh\Documents\Projects\finshark\api\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Users\ryanh\Documents\Projects\finshark\api\obj\Debug\net9.0\api.sourcelink.json
